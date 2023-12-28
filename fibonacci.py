@@ -40,4 +40,10 @@ for k in x:
     else:
         break
 
+print("Sum of the first 40 terms: ")
 print(answer)
+
+
+
+
+
